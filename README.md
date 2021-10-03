@@ -5,6 +5,6 @@ Integrantes:
 
 Rusbel Calderón
 Bryan Castellanos
-Andrés Felipe Motta
 Santiago Hewitt Ramírez
+Andrés Felipe Motta
 Estefanía Ramírez
