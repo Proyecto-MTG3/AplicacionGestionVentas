@@ -3042,7 +3042,7 @@ textarea.form-control-lg {
   color: #fff;
   background-color: #0d6efd;
   border-color: #0d6efd;
-  float: right;
+
 }
 .btn-primary:hover {
   color: #fff;
@@ -11686,16 +11686,5 @@ body {
   width: 20px !important;
   font-size: 0.75rem;
   border-radius: 0.25rem !important;
-}
-
-.btn btn-success {
-  align-content: ;
-}
-
-/* css adicional */
-
-.dataTable-top2 {
-  padding: 0 0 1rem;
-  float:  right;
 }
 
